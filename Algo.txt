@@ -1,3 +1,4 @@
 1. Find pizza place
 2. Figure put what pizza you want
 3. Then order what you want
+4. Eat the pizza
